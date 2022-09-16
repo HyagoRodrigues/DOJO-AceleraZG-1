@@ -44,7 +44,7 @@ class Portao{
                     println contador;
                     break;
                 default:
-                    println ""
+                    println "Digite um valor válido"
             }
         }
     }
